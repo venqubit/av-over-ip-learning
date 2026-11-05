@@ -76,4 +76,4 @@ Each stage builds on the previous one. Repos are also saved in my GitHub Stars l
 | 12+ | Stage 5 (FPGA / MCU projects) |
 
 ## My notes
-_Add notes, commands and learnings here as I go._
+
